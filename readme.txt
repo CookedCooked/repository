@@ -12,3 +12,4 @@ add 1234
 
 test MyEclipse
 
+test  error
